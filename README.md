@@ -1,4 +1,4 @@
-# discursos_peron
+# Discursos Perón
 Discursos completos pronunciados por el ex Presidente Juan Domingo Perón entre 1ro de diciembre de 1943 y el 19 de septiembre de 1955. 
 
 Los documentos, con excepción de los correspondientes al año 1949, fueron suministrados por el historiador Enrique de Alzáa, quien lideró un equipo que transcribió a formato digital editable los originales en papel que se encuentran en el Archivo General de la Nación. Los discursos del año 1949 fueron tomados de Perón (2016) en formato PDF. 
